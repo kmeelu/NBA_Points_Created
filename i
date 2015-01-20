@@ -1,0 +1,26 @@
+"","teams","names","ptsC"
+"186","OKC","Kevin Durant",30.0481
+"354","MIN","Kevin Love",29.037
+"296","MIA","LeBron James",27.6542
+"155","NOP","Anthony Davis",24.8528
+"242","LAC","Blake Griffin",23.9583
+"446","LAC","Chris Paul",23.8171
+"135","SAC","DeMarcus Cousins",23.5964
+"11","POR","LaMarcus Aldridge",23.5497
+"302","CHA","Al Jefferson",23.2284
+"26","NYK","Carmelo Anthony",23.0999
+"150","GSW","Stephen Curry",22.5049
+"252","HOU","James Harden",22.2496
+"423","CHI","Joakim Noah",21.6411
+"282","ATL","Al Horford",21.5081
+"182","DET","Andre Drummond",21.3356
+"283","HOU","Dwight Howard",21.2604
+"320","LAC","DeAndre Jordan",21.1544
+"425","DAL","Dirk Nowitzki",20.6507
+"216","LAL","Pau Gasol",19.9893
+"184","SAS","Tim Duncan",19.8208
+"588","OKC","Russell Westbrook",19.7699
+"352","BRK","Brook Lopez",19.3553
+"392","ATL","Paul Millsap",19.0898
+"286","OKC","Serge Ibaka",19.0721
+"342","GSW","David Lee",18.9888
